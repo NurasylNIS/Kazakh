@@ -22,9 +22,10 @@ padding: 10px 20px;
 .btn:hover{
     cursor: pointer;
     color: crimson;
+    transition: 1s;
 }
 .body{max-width: 1800px;
-background-image: url(./шьфпуы/Без\ названия\ \(1\).jpg);background-repeat: no-repeat; background-size:cover;
+background-image: url(./Без\ названия\ \(1\).jpg);background-repeat: no-repeat; background-size:cover;
 }
 
 .h1{
@@ -37,4 +38,5 @@ background-image: url(./шьфпуы/Без\ названия\ \(1\).jpg);backgr
     font-size: 50px;
 }
 .qs{display: flex;
+
 margin-top: 300px;}
